@@ -11,7 +11,7 @@ setuptools.setup(
     description="An application log system similar to Android Logcat for Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ellington.su/PyLogcat",
+    url="https://github.com/ellingtonsu/PyLogcat",
     packages=setuptools.find_packages(),
     install_requires=[
           'enum',
