@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pylogcat",
-    version="0.0.1",
+    version="0.0.3",
     author="Wei-Tsung Su",
     author_email="ellington.su@gmail.com",
     description="An application log system similar to Android Logcat for Python",
@@ -18,7 +18,7 @@ setuptools.setup(
       ],
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: Apache License 2.0",
+        "License :: OSI Approved :: Apache Software License",
         "Operating System :: OS Independent",
     ],
 )
